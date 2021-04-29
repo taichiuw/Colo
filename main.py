@@ -22,9 +22,6 @@ import importlib
 intents = discord.Intents.default()
 intents.members = True
 
-#げっちコーナー
-
-
 class Main:
     def __init__(self):
         super().__init__()
