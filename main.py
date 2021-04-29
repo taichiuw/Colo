@@ -90,7 +90,7 @@ service = Main()
 service.start()
 
 client = discord.Client(intents=intents)
-TOKEN = "NzA3NjQwNTE3NzA5NzkxMzMy.XrLvlg.N3NOFJnUkKGBCFrv2F4LcvX5LAM"
+TOKEN = "####################################"
 admin = []
 global_channel = []
 user_say = {}
